@@ -117,7 +117,8 @@ Worksheets("2016").Activate
         
         For j = 2 To ticker_counter + 1
             yearly_change = Cells(j, 16).Value - Cells(j, 15).Value
-
+            first_date_open_price = Cells(j, 15).Value
+            
             'conditional formatting
 
             If (yearly_change >= 0) Then
@@ -135,12 +136,12 @@ Worksheets("2016").Activate
                 pcnt_chg = Round((yearly_change / first_date_open_price) * 100, 2)
     
                 If pcnt_chg >= 0 And pcnt_chg > greatest_pcnt_inc Then
-                    greatest_pcnt_inc = Round(pcnt_chg * 100, 2)
+                    greatest_pcnt_inc = pcnt_chg
                     pcnt_inc_ticker = Cells(j, 9).Value
                 End If
     
                 If pcnt_chg < 0 And pcnt_chg < greatest_pcnt_dec Then
-                    greatest_pcnt_dec = Round(pcnt_chg * 100, 2)
+                    greatest_pcnt_dec = pcnt_chg
                     pcnt_dec_ticker = Cells(j, 9).Value
                 End If
             End If
