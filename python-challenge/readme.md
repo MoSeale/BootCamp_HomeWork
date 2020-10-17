@@ -12,4 +12,4 @@
 
 2. PyPoll
     * Code - PyPoll\main.py
-    * results - Analysis\financial_out.txt
+    * results - Analysis\elections_out.txt
