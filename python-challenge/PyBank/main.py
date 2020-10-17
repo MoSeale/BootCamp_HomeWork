@@ -54,7 +54,7 @@ print ('Greatest Decrease in Profits: ', newlist1[0][0], '${:.2f}'.format(newlis
 
 # Prints similar info out to file
 
-results_txt = os.path.join("Output","financial_out.txt")
+results_txt = os.path.join("Analysis","financial_out.txt")
 text_file = open(results_txt, "w")
 text_file.write ('Financial Analysis\n')
 text_file.write ('------------------\n')

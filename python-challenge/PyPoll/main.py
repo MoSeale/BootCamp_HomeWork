@@ -74,7 +74,7 @@ print ('-----------------------')
 print ('Winner: ', final_winner[0][0], final_winner[0][1])
 
 #Writes output to file
-results_txt = os.path.join("Output", "elections_out.txt")
+results_txt = os.path.join("Analysis", "elections_out.txt")
 
 text_file = open(results_txt, "w")
 text_file.write ('Election Results\n')
