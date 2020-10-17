@@ -1,4 +1,4 @@
-#Unit 3 - Python Homework
+# Unit 3 - Python Homework
 
 **Modeller: ** Moné-Renata Holder
 **Submission Date:** 17 October 2020
