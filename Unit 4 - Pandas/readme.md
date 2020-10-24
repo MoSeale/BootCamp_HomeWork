@@ -1,0 +1,24 @@
+# Unit 4 - Pandas Homework
+
+**Modeller:** Moné-Renata Holder
+
+**Submission Date:** 24 October 2020
+
+## Submission Components
+
+1. HeroesOfPymoli
+    * Code - PyBank\main.py
+   # Sections
+	*Player Count
+	* Purchasing Analysis (Total)
+	* Gender Demographics
+	* Purchasing Analysis (Gender)
+	* Age Demographics
+	* Top Spenders
+	* Most Popular Items
+	* Most Profitable Items
+	* 
+
+2. 
+    * 
+    * 
