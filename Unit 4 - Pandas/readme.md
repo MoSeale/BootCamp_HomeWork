@@ -8,7 +8,7 @@
 
 1. HeroesOfPymoli
     * Code - HeroesOfPymoli\HeroesOfPymoli_complete.ipynb
-   ### Sections
+   ### Code Sections
 	* Player Count
 	* Purchasing Analysis (Total)
 	* Gender Demographics
@@ -17,5 +17,5 @@
 	* Top Spenders
 	* Most Popular Items
 	* Most Profitable Items
+	* Summary
 	
-
