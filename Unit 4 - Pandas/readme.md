@@ -7,9 +7,9 @@
 ## Submission Components
 
 1. HeroesOfPymoli
-    * Code - PyBank\main.py
-   # Sections
-	*Player Count
+    * Code - HeroesOfPymoli\HeroesOfPymoli_complete.ipynb
+   ### Sections
+	* Player Count
 	* Purchasing Analysis (Total)
 	* Gender Demographics
 	* Purchasing Analysis (Gender)
@@ -17,8 +17,5 @@
 	* Top Spenders
 	* Most Popular Items
 	* Most Profitable Items
-	* 
+	
 
-2. 
-    * 
-    * 
